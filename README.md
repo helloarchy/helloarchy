@@ -12,7 +12,7 @@ various personal projects. It's a large .NET microservice hosted on Azure with v
 for a wide range of different web applications that I use for different utilities in my personal life.
 
 💬 Ask me about mt other personal projects, a lot of the repo's are private. I also have many different
-projects which I host on Azure as they're too large for GitHub. Many of which are Unreal projects.
+projects which I host on Azure or self host as they're too large for GitHub. Many of which are Unreal projects.
 
 
 <!--
