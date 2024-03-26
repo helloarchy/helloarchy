@@ -11,8 +11,9 @@ focus on performance for real-time projects.
 various personal projects. It's a large .NET microservice hosted on Azure with various front ends
 for a wide range of different web applications that I use for different utilities in my personal life.
 
-💬 Ask me about mt other personal projects, a lot of the repo's are private. I also have many different
-projects which I host on Azure or self host as they're too large for GitHub. Many of which are Unreal projects.
+💬 Ask me about my other personal projects, a lot of the repo's are private. I also have many different
+projects which I host on Azure or self host as they're too large for GitHub. Many of which are Unreal and
+Unity projects using their respective DevOps solutions.
 
 
 <!--
